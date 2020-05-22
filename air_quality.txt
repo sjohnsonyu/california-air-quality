@@ -1,0 +1,528 @@
+MeasureName,StateName,CountyName,ReportYear,Value,Unit
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Barbara,2004,10.989848484848499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2013,15.5661111111111,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2006,7.92527841781874,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,2009,6.09166666666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Benito,2007,6.24790178571429,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,1999,12.8761904761905,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mendocino,1999,9.178571428571431,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sonoma,1999,12.349305555555601,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2001,14.9449138706625,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2003,24.814179876900401,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2010,5.61056353767561,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2004,8.143809523809519,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2004,4.43857142857143,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Cruz,2006,6.84721726190476,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2001,10.3892857142857,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Francisco,2002,13.1170260145197,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2001,4.23924107142857,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Cruz,2009,5.70947916666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mendocino,2005,6.18822916666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2001,5.66221264367816,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2001,22.491809116809101,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2010,7.73550961538462,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2007,11.6526003466521,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,2009,13.0438320355951,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2001,25.194369065467299,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2006,8.58592261904762,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2002,21.656355065617099,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2010,7.6295981757007,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2005,14.701160661044399,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2012,4.32758241758242,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2007,5.92189153439153,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2007,18.877290372670799,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2013,8.20692104493819,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2007,7.64842105263158,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2005,10.048809523809499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Modoc,2000,8.515625,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2007,20.397437978688,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2003,10.507291666666699,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2005,16.9211207609595,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2006,20.8482605820106,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2002,18.6226847829173,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sonoma,2002,10.5166534893527,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2003,7.94967357910906,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Francisco,2005,9.49698529411765,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2002,10.5223214285714,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mendocino,2002,9.26177083333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2000,13.6211415525114,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2013,8.3097012553631,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2012,14.6676307007786,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2003,8.303244047619049,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,1999,27.710583221277702,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2011,10.4143479221928,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2000,10.3723958333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2010,13.576800505996999,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2008,10.0219047619048,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2000,15.751041666666699,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Barbara,2007,9.49,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2004,5.44212962962963,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2004,21.877839756592302,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2007,9.779999999999999,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mono,2003,7.59601449275362,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2004,17.012920026881702,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2010,8.962187500000001,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2010,9.656258210180621,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2007,8.251068376068369,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2010,3.05489583333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2004,11.063352369192801,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2008,17.4209259485426,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2010,5.40277195922357,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2010,12.9978334245576,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2013,10.084411776024,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2001,21.826232193732199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2002,18.7382199302135,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2010,5.67549260120673,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2001,17.674720108236102,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2006,13.1760416666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,El Dorado,1999,8.39642857142857,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2004,7.29308755760369,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2007,13.310632215478501,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,1999,17.129691876750702,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2007,12.247495126705701,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2008,13.312687245087099,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,1999,19.745370370370399,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2004,19.989035714285698,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2006,7.07354166666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,1999,13.4297619047619,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Francisco,2008,9.84115740740741,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2013,5.94941152597403,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,2006,14.843010752688199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2010,13.575767519466099,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2005,9.15365725359911,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2012,7.29735958485958,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2002,13.840991022016199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,1999,13.740594606542899,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2011,9.85689851097179,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2005,9.705833333333331,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,2001,8.05322128851541,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2007,13.0020502645503,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Cruz,2000,7.93125,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,2000,18.706451612903201,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2000,28.300265711300199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,2005,12.479421579532801,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Siskiyou,2011,5.52541666666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2007,6.27973310291859,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Cruz,2003,7.39208218864469,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2013,9.01273376208721,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2002,13.271464646464599,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,2003,14.495698924731199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2006,9.629637096774189,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2011,10.549539302929199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2009,5.90145833333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,2002,16.682812500000001,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2002,21.4527863300493,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2002,13.2315476190476,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2007,16.8569918809049,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2010,4.58107142857143,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2009,7.07362803862804,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Barbara,2001,10.3961458333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2013,10.3464516129032,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2010,5.67514705882353,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2002,13.138514791637,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2007,3.40833333333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2011,15.441699346405199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2004,11.8008503928867,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2013,8.18342431761787,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2013,12.292561179087899,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2001,12.4842061781609,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,El Dorado,2002,7.73645833333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2013,6.74752873563218,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2004,18.968674492749301,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2004,14.0640709324875,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2008,11.501685178620701,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2009,10.045327380952401,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2013,18.901453260824798,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2013,3.9271875,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2004,10.383584641371099,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2009,8.24929487179487,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2005,14.077500000000001,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2009,7.95166666666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,1999,13.8953846153846,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2012,8.98305693194458,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2009,13.550229885057499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2003,4.44020833333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2013,5.37410256410256,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2003,22.129525926971599,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2007,22.106610651115901,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,2007,14.975729646697401,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2000,18.444307692307699,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2008,10.087241379310299,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Siskiyou,2012,5.65973214285714,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2002,8.32086894586894,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2002,25.833189655172401,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2005,9.68916666666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2002,23.222302558398201,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2005,7.213133640553,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Barbara,2002,9.524776785714289,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Cruz,2001,9.12892857142857,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2010,12.9197196620584,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2009,10.8092204301075,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,2007,7.85595238095238,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2001,30.951858295775502,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2002,14.0082085561497,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2008,9.739766407119021,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2009,3.41229166666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2011,7.91598800674195,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2010,17.614277950310601,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2010,10.8144982520261,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,1999,9.08071428571429,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2011,5.36191620879121,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,1999,25.739451410658301,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2008,9.941116478797641,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,1999,27.604052936311,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2005,11.193869047619,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2006,14.8222388632873,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2011,7.96904721500062,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2012,9.214166666666671,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2005,9.04771169354839,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2000,24.044985632183899,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2010,4.53645833333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2003,9.891666666666669,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2008,10.697284300371599,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,2004,7.61875,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2000,20.338522114531401,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2013,7.495,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2008,9.424277972754361,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2001,9.57504634779384,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2007,7.015,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2000,12.197619047619,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2013,22.790900488400499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2013,10.6019919001132,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2002,7.93247596153846,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,2008,14.3552586206897,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2011,11.906925743477499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2013,13.6104838709677,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mendocino,2000,7.57882575757576,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2006,5.1865625,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2004,22.209262324021399,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2001,10.182113095238099,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2011,6.66326612903226,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2006,16.6869708994709,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,2004,13.5959677419355,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2002,14.559056285349399,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,1999,16.2877668308703,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2000,12.263883808113601,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2011,8.51385416666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2008,10.963125,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2003,15.654999999999999,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sonoma,2008,8.557604166666669,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2007,18.375926501035199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2003,17.8180208333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2004,6.98880952380952,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2008,15.2004022988506,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2008,7.1366332962551,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2008,9.106060606060611,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2004,9.267288108791901,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2003,11.7139686339652,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,2001,15.5794858870968,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2011,10.9535209235209,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2008,7.80089285714286,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2000,16.6632142857143,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2004,8.38833333333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2004,15.0510416666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2009,7.77276785714286,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2008,14.7373958333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2008,19.8436716722284,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Francisco,2003,10.1673185614515,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2003,12.3406595968414,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2004,7.26408683259177,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2002,15.0743616584565,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,1999,7.59702380952381,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2009,10.145049021586599,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2002,10.721414186069399,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2007,8.29693212365591,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2007,8.255595238095241,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Siskiyou,2009,5.13166666666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2001,19.1796130952381,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2012,15.10704538153,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2001,13.0142857142857,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2012,12.6303640119209,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2005,7.29464285714286,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2012,3.85104166666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2005,4.70260062276554,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2005,18.833576480990299,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2005,8.44004207573632,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2005,10.558143939393901,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,2000,15.4631720430108,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mendocino,2008,7.87262820512821,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,1999,15.2224323551624,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2006,17.617325268817201,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2004,17.403485576923099,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2011,8.907500000000001,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,1999,26.214523809523801,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,1999,17.964399272754498,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2005,18.8135692970822,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2002,7.80859293364681,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Siskiyou,2006,7.12559523809524,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2001,8.91502976190476,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sonoma,2005,7.59733870967742,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2007,6.71517094017094,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2000,11.2135537790698,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2006,13.1518538932332,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2011,13.2893876941458,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Francisco,2006,9.68784452338018,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2006,10.7769047812652,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2011,6.63453115547489,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2001,11.5391666666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sonoma,2006,9.18474027514231,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Cruz,1999,9.8091889802516,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,2002,9.90238095238095,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2008,10.4020708812261,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2006,11.590992647058799,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2006,9.433635027286771,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,1999,24.877178683385601,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2007,12.321666666666699,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2000,11.2106385696041,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2011,16.082889773062199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2011,13.190649464591401,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,2006,13.0983870967742,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2006,8.65744047619048,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2011,3.5015625,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2013,7.15989468864469,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2009,10.441045348741399,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2013,10.082991298549601,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2004,11.631585518102399,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2008,23.4732121212121,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2008,13.7418325739489,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2000,14.8436481481481,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2009,5.81666666666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Siskiyou,2010,4.49718614718615,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2000,16.365188746438701,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2006,6.58732563732564,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2005,6.75833333333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2008,9.74207532051282,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2005,8.77752352150538,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2009,15.1701623799164,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2012,10.810639363086599,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2010,8.7915625,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2003,9.01272875816993,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2003,9.36470588235294,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2001,14.4726165501166,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2010,8.833585434173671,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2002,24.078942227475,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2002,15.9890862080931,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2002,9.153258145363409,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2004,11.720608445777099,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2011,7.550625,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2003,9.7509536498708,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2006,10.8914032953281,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2012,14.3302178550758,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2005,13.260787823287799,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,1999,30.201011344976902,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2010,8.03102106227106,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2000,9.14707074175824,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2000,8.85291218637993,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2000,11.5725,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,El Dorado,2003,7.153125,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2005,19.8171877289377,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2005,12.259034636249799,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2013,14.188425573642499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,1999,11.0880952380952,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2003,9.737500000000001,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2011,13.818082922824299,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,2002,18.6728983382209,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2009,8.4527174102779,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,2003,13.5848484848485,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2000,11.5184348739496,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2008,9.11420995670996,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2004,15.1754525862069,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2007,10.704884414244701,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2005,17.852403538065101,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2010,5.489375,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2012,5.90372023809524,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2011,7.48274721766101,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2003,16.232553366174098,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2008,7.21998511904762,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2007,10.6916666666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2003,7.4730407523511,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,El Dorado,2000,7.83890931372549,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2001,19.912998878555602,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2010,15.2074340291131,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2003,5.06323623902335,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2003,23.795845516181998,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Cruz,2007,6.35178571428571,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mendocino,2006,6.82971726190476,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2003,13.284560123784299,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,1999,13.220376317523099,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2003,18.213505747126401,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2012,6.48598214285714,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2006,16.866481045191701,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2009,10.8088541666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2002,11.5081465919701,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Francisco,2001,11.517737198795199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2006,10.518750000000001,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Barbara,2005,10.607714160839199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,1999,9.754815270935961,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2001,11.6334926389804,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Benito,2008,6.97879464285714,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2006,14.031340709028999,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,1999,9.65964285714286,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2009,9.16616534019975,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2005,6.97456126847291,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2012,6.92563844201775,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2012,6.71790351094827,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2006,7.58049107142857,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2000,10.250595238095199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2007,20.932539682539701,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2000,9.43349753694581,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2000,25.8953076923077,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,2008,8.647812500000001,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sonoma,2000,10.499174347158201,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2000,23.9229269293924,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2006,10.326637931034499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Barbara,2008,10.413928571428601,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2009,15.805008210180601,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2009,8.59483630952381,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Francisco,2004,9.94666691575004,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,2009,11.321828817734,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2003,7.52604166666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mendocino,2003,7.38875,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2001,12.8301103368177,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2006,18.414953017996499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2011,16.504817396617799,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2011,10.866956305108401,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2002,9.262604166666669,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sonoma,2003,8.679852150537631,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2003,17.324435716413401,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2000,4.35125,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2002,11.562179487179501,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,1999,12.127789968651999,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2003,14.157181066060399,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2006,10.3426289627364,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2012,9.489667487684731,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2009,7.92382519376597,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,2005,7.01666666666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,1999,17.527380952381002,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2010,12.524259259259299,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2007,5.55397435897436,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Francisco,2007,8.65759877259404,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2005,11.7557773319223,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sonoma,2007,7.58127976190476,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2006,9.29568965517241,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2009,6.56211366538953,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2009,9.42901785714286,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2000,16.867902298850598,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2000,22.6323655913979,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2000,15.779365630511499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2007,18.878006619817,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2005,17.457891705069098,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2009,7.03462797619048,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2003,8.86459601081812,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2009,16.041018724508699,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2005,12.320833333333301,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2002,14.2967203479252,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2001,9.183035714285721,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2001,15.6167647058824,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Benito,2009,5.49759803921569,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2010,13.440706816730501,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2003,13.1145628078818,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sonoma,2001,10.771091954022999,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2003,19.6257738095238,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2003,15.4706350481041,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2004,10.723024991668501,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mendocino,2004,6.96458333333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2011,6.75208333333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2002,11.9921413835207,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2013,7.51511904761905,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2005,7.49663690476191,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2003,8.42637931034483,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2006,6.25290404040404,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Luis Obispo,2008,8.26988095238095,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Barbara,2009,6.851875,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kings,2008,16.167233169129702,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2002,15.13125,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2010,6.64833333333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2012,9.31007620901531,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2003,7.32104166666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2004,16.952252155172399,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2005,11.5774227462868,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2010,10.179225038682899,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2001,9.48971264367816,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2006,18.772945468509999,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2000,8.012073732718889,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sonoma,2004,8.25959406343182,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2008,10.5263636363636,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2006,12.474210591133,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2001,11.204418103448299,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2007,14.3902331971439,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,1999,16.7493226600985,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Inyo,2012,6.24157051282051,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2012,12.823283623485199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2012,5.77647664835165,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2000,11.4668920595534,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,El Dorado,2001,8.21856617647059,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2008,16.425000000000001,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2001,12.008333333333301,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2011,15.334223342064901,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Shasta,2004,7.23461538461538,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2013,12.148642106071801,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,1999,19.930208333333301,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2004,11.702837643678199,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mendocino,2007,4.71666666666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,2001,13.854301075268801,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Tulare,2012,14.7987785811395,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2007,9.005000000000001,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2001,14.872087041156799,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2010,11.223718584656099,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2007,8.170896536399139,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,2003,8.63854166666667,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2002,27.4940696644206,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Mateo,2011,8.27138392857143,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2009,6.2625,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2001,12.428306451612899,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2007,15.225,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,2000,8.961458333333329,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2004,16.9604017857143,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Bernardino,2001,26.472008249907301,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2004,10.408333333333299,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2009,7.51220352564103,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2008,7.4046875,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,2004,13.2029569892473,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2009,22.4930285303777,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2004,9.389583333333331,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2009,12.1824137931034,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Monterey,2011,4.8981994047619,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Modoc,1999,7.89107142857143,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2002,6.3859375,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Barbara,2003,9.790151515151511,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Cruz,2008,6.785625,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2009,12.9675905797101,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,2008,15.986962365591401,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Butte,2011,12.0903125,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,2002,24.029238351254499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Merced,2013,13.524473180076599,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Barbara,2000,9.90646603396603,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Imperial,2012,14.730108618233601,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sutter,2010,5.94031683523212,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2010,7.11525904203324,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Alameda,2004,10.2616682583475,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Los Angeles,1999,25.658939393939399,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Cruz,2002,8.56924369747899,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Ventura,2004,12.542315535780499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Calaveras,2006,8.603125,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2009,9.72877044517138,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2012,11.0700584878605,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Humboldt,2001,9.392307692307689,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Kern,2006,19.3487720306513,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2007,8.38833333333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Diego,2006,13.135177530802499,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Siskiyou,2013,7.85488095238095,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Joaquin,2007,12.908083717357901,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Barbara,2006,10.1283516483516,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Plumas,2012,13.0456815853368,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Lake,2005,4.82833333333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Mendocino,2001,8.31770833333333,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Solano,2006,9.828152534248581,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Sacramento,2013,11.5548171470027,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Riverside,2005,20.989354973696798,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Nevada,2012,6.22091119762699,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Stanislaus,2005,13.8680107526882,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Santa Clara,2013,10.688145161290301,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,San Francisco,1999,13.130392156862699,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Orange,2001,15.8368475274725,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Fresno,2013,16.7794344066638,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Yolo,2012,6.4456862745098,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Contra Costa,2007,8.438100751296149,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Colusa,2000,7.96986943164362,µg/m³
+Annual average ambient concentrations of PM2.5 in micrograms per cubic meter (based on seasonal averages and daily measurement),California,Placer,2001,11.8982142857143,µg/m³
